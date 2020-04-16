@@ -1,4 +1,3 @@
-listB.txt
 White001.png
 White002.png
 White003.png

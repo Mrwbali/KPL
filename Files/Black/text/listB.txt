@@ -167,5 +167,3 @@ Black166.png
 Black167.png
 Black168.png
 Black169.png
-list.txt
-listB.txt
